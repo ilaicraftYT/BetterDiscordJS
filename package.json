@@ -24,6 +24,7 @@
   "homepage": "https://github.com/ilaicraftYT/BetterDiscordJS#readme",
   "dependencies": {
     "canvas": "^2.8.0",
-    "discord.js": "^12.5.3"
+    "discord.js": "^12.5.3",
+    "emoji-regex": "^9.2.2"
   }
 }
