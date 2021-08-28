@@ -1,5 +1,5 @@
 {
-  "name": "betterdiscordjs",
+  "name": "@ilai/betterdiscordjs",
   "version": "1.0.0",
   "description": "BetterDiscordJS is a NPM package who will help you to make your bots better.",
   "main": "src/index.js",
